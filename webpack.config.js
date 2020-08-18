@@ -1,3 +1,4 @@
+const SWPrecacheWebpackPlugin = require('sw-precache-webpack-plugin')
 const path = require('path')
 
 const { VueLoaderPlugin } = require('vue-loader')
