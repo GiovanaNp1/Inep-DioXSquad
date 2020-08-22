@@ -1,13 +1,17 @@
 
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>E-MEC</h1>
   </div>
 </template>
 
 <style scoped>
 h1 {
-  color: blue
+  margin: 0px;
+  color: #46599C;
+  font-family: 'Hammersmith One', sans-serif;
+  text-align: center;
+  background-color: white;
 }
 </style>
 
